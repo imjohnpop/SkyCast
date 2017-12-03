@@ -4,6 +4,7 @@
   "description": "React Weather Forecast created for an entry task to Bluewolf/IBM company",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server",
     "dev": "webpack -d --watch",
     "build": "webpack -p"
   },
@@ -24,6 +25,7 @@
     "react-chartjs-2": "^2.6.4",
     "react-datepicker": "^0.61.0",
     "react-dom": "^16.2.0",
-    "react-skycons": "^0.7.0"
+    "react-skycons": "^0.7.0",
+    "webpack-dev-server": "^2.9.5"
   }
 }
