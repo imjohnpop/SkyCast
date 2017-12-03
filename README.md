@@ -1,7 +1,7 @@
 # SkyCast
 SkyCast Weather Forecast created with React
 
-For now you can try it at this link
+For now you can try it at this
 LINK: https://imjohnpop.github.io/
 
 Install
